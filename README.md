@@ -1,2 +1,6 @@
 # yt-ICS-1
-yt的第一个存储库
+#include<stdio.h>
+int main()
+{
+    return 0;
+}
